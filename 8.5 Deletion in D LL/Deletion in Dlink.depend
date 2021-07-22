@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565702708 source:d:\akshit data\code blocks projects\class programs\ds&a\deletion in dlink\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
