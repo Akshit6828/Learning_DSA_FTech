@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566329105 source:d:\akshit data\code blocks projects\class programs\ds&a\expression validator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1567103525 source:d:\akshit data\code blocks projects\class programs\ds&a\infix to postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
