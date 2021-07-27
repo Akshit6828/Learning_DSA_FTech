@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567617690 source:d:\akshit data\code blocks projects\my projects\infix to prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
