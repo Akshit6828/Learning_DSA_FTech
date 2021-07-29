@@ -33,6 +33,8 @@ int main()
     display();
 return 0;
 }
+
+// Function to work for push operation
 void push()
 {
     int x;
@@ -61,6 +63,8 @@ void push()
        cque[rear]=x;
     }
 }
+
+// Function to work for pop operation
 void pop()
 {
     int a;
