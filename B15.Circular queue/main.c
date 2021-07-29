@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+// Function and Variable Declarations
 int max=5;
 void push();
 void pop();
