@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
+
+// Function and variable definitions.
 int front;
 int x[5];
 int front=-1;
 void pop(int n);
+
+
 int main()
 {
     int n,i;
