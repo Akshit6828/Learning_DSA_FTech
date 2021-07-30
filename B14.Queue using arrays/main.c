@@ -33,6 +33,7 @@ int main()
     display(front,rear);
     return 0;
 }
+
 void push(int item,int rear)
 {
     if(rear<max)
