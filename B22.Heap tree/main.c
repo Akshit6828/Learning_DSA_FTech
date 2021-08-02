@@ -9,8 +9,11 @@ int main()
     {
         printf("Enter value");
         scanf("%d",&x[i]);
+        
+        // Implementing heap if the value at ith index is greater than its i/2th index.
         while(i>0)
         {
+            // Swapping if the condition meets
             if(x[i]>x[i/2])
             {
                 int temp;
